@@ -1,5 +1,5 @@
 {
-  "name": "pdf-to-img",
+  "name": "pdf-to-image",
   "version": "1.2.1",
   "description": "A simple module to convert PDF files into image buffers (without filesystem usage)",
   "main": "pdf-img-convert.js",
