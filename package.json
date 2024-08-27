@@ -28,7 +28,7 @@
     "png",
     "convert"
   ],
-  "author": "Oliver Thwaites",
+  "author": "Michael Malania (Forked from Oliver Thwaites)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/Michael-Malania/pdf-img-convert.js/pulls"
