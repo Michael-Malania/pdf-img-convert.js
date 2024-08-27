@@ -3,6 +3,9 @@
 
 **This package is powered mainly by Mozilla's [PDF.js](https://github.com/mozilla/pdf.js)**
 
+**Note:** This is a forked version of **pdf-img-convert.js** with compatibility for BunJS.
+
+
 ## Motivation
 
 There are a lot of solutions for converting PDFs with javascript already but they all make excessive use of the filesystem in the form of
